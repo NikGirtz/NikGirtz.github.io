@@ -16,7 +16,10 @@ height:70px;
 background-color: #282828;
 
 }
-
+body{
+	background-color: 1F2D5A;
+	color: white;
+}
 h1{
 position: absolute;
 padding: 3px;
