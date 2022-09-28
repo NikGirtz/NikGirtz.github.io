@@ -1,7 +1,13 @@
+
 body,html{
 margin: 0;
 padding: 0;
-background-color: #1F2D5A;
+
+}
+
+body{
+	background-color: 1F2D5A;
+	
 }
 
 img{
@@ -28,6 +34,7 @@ ul{
 	width: auto;
 	float: right;
 	margin-top: 8px;
+	font-family: 'Antic_Slab' , slab-serif;
 	
 }
 
