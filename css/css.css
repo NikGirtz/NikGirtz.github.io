@@ -42,13 +42,9 @@ padding: 3px;
 float:left;
 margin-left: 2%;
 font-family: 'Antic_Slab' , slab-serif;
-height: 100%;
+height: 50%;
 }
 
-nav{
-	border: 10px;
-	border-color:#282828;
-}
 
 ul{
 	width: auto;
