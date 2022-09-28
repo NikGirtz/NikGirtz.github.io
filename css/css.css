@@ -12,6 +12,11 @@ padding: 0;
 	
 	
 }
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: header;
+}
 .sidebar-image-gallery {width:510px; border-radius: 50%; float: right; width: 300px; padding:10px;}
 header{
 width: 100%;
