@@ -10,7 +10,7 @@ padding: 0;
 	
 	
 }
-.sidebar-image-gallery {width:210px; border-radius: 50%; align: right; }
+.sidebar-image-gallery {width:210px; border-radius: 50%; margin:auto;}
 header{
 width: 100%;
 height:70px;
