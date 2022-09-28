@@ -8,7 +8,7 @@ background-color: 1F2D5A;
  img{
 	width: 50%;
 	height: 200px;
-	
+	position: relative;
 }
 header{
 width: 100%;
