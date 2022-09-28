@@ -14,7 +14,13 @@ padding: 0;
 	
 }
 
-.sidebar-image-gallery {; border-radius: 50%; float: right; width: 210px; padding:10px;}
+.sidebar-image-gallery { width: 210px; border-radius: 50%;}
+.sidebar-image-gallery img:hover { 
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+ }
 
 header{
 width: 100%;
