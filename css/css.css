@@ -37,6 +37,29 @@ margin-left: 2%;
 font-family: 'Antic_Slab' , slab-serif;
 }
 
+h2{
+position: absolute;
+padding: 3px;
+float:left;
+margin-left: 2%;
+font-family: 'Antic_Slab' , slab-serif;
+}
+
+h3{
+position: absolute;
+padding: 3px;
+float:left;
+margin-left: 2%;
+font-family: 'Antic_Slab' , slab-serif;
+
+h4{
+position: absolute;
+padding: 3px;
+float:left;
+margin-left: 2%;
+font-family: 'Antic_Slab' , slab-serif;
+}
+}
 ul{
 	width: auto;
 	float: right;
