@@ -2,14 +2,9 @@
 body,html{
 margin: 0;
 padding: 0;
-
+background-color: 1F2D5A;
 }
 
-body{
-	background-color: 1F2D5A;
-	
-}
- 
  img{
 	width: 50%;
 	height: 200px;
