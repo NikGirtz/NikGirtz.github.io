@@ -26,10 +26,7 @@ body{
 	background-color: #1F2D5A;
 	color: white;
 	text-align: left;
-	position: absolute;
-	top: 0;
-	right: 0;
-	text-indent: 50px;
+	padding: 10px;
 }
 h1{
 position: absolute;
