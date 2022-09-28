@@ -6,9 +6,9 @@ background-color: 1F2D5A;
 }
 
  img{
-	width: 50%;
-	height: 200px;
-	position: relative;
+	max-width: 100%;
+	height: auto;
+	
 }
 header{
 width: 100%;
