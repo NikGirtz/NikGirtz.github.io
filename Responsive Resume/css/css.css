@@ -26,7 +26,8 @@ img {
 	
 	max-height:20%;
 	max-width:20%;
-	border-radius:75%
+	border-radius:75%;
+	grid-area: header;
 }
 
 .topnav a.active {
@@ -41,6 +42,8 @@ img {
 
 body {
 	background-color: #A0B997;
+	height:40px;
+	margin:0;
 }
 
 .grid-container {
@@ -48,7 +51,11 @@ body {
 	grid-template-columns: repeat(2, auto);
 	align-content: center;
 	justify-content: space-evenly;
-	grid-gap: 100px;
+	grid-gap: 75px;
+	grid-template-areas:
+	'header'
+	'main'
+	'footer'
 	
 	
 	
@@ -58,6 +65,7 @@ body {
 	font-size: 15px;
 	width: 600px;
 	height: 200px;
+	
 
 	
 }
@@ -68,12 +76,14 @@ font-size: 15px;
 	width:400px;
 	height:100px;
 	
+	
 }
 
 .community-service {
-	width:600px;
-	height:50px;
+	width:400px;
+	height:1px;
 	font-size: 15px;
+	
 	
 }
 
@@ -81,6 +91,8 @@ font-size: 15px;
 	width:600px;
 	height:50px;
 	font-size: 15px;
+	
+	
 }
 
 .work-experience {
@@ -88,10 +100,12 @@ font-size: 15px;
 	height: 400px;
 	font-size: 15px;
 	
+	
 }
 .education {
-	width:600px;
+	width:500px;
 	height:50px;
 	font-size: 15px;
-	color: black
+	color: black;
+	
 }
