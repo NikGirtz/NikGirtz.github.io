@@ -1,0 +1,111 @@
+
+.topnav {
+  background-color: #4D7E3E;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+img {
+	display:inline-block;
+	
+	max-height:20%;
+	max-width:20%;
+	border-radius:75%;
+	grid-area: header;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+.topnav .icon {
+  display: none;
+}
+
+body {
+	background-color: #A0B997;
+	height:40px;
+	margin:0;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	align-content: center;
+	justify-content: space-evenly;
+	grid-gap: 75px;
+	grid-template-areas:
+	'header'
+	'main'
+	'footer'
+	
+	
+	
+	
+}
+.about-me{
+	font-size: 15px;
+	width: 600px;
+	height: 200px;
+	
+
+	
+}
+	
+
+.skills {
+font-size: 15px;
+	width:400px;
+	height:100px;
+	
+	
+}
+
+.community-service {
+	width:400px;
+	height:1px;
+	font-size: 15px;
+	
+	
+}
+
+.references {
+	width:600px;
+	height:50px;
+	font-size: 15px;
+	
+	
+}
+
+.work-experience {
+	width: 600px;
+	height: 400px;
+	font-size: 15px;
+	
+	
+}
+.education {
+	width:500px;
+	height:50px;
+	font-size: 15px;
+	color: black;
+	
+}
