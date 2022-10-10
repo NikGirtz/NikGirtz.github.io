@@ -29,9 +29,6 @@ body {
 	line-height:1.2
 }
 
-#showcase p{
-	font-size:20px;
-}
 #showcase .button{
 	font-size:18px;
 	text-decoration:none;
@@ -40,6 +37,10 @@ body {
 	padding:10px 20px;
 	border-radius:10px;
 	margin-top:20px;
+}
+#showcase .button:hover{
+	background:white;
+	color:black;
 }
 
 
