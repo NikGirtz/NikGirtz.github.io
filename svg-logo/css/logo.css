@@ -1,8 +1,12 @@
 body{
 	background-color:#36454F;
+	width:1200px;
+	height:1200px;
+	margin:auto;
 }
- .center{
-	 display:block;
-	 margin-left: auto;
-	 margin-right:auto;
-	 width:50%;
+svg{
+	width:100%;
+	height:auto;
+	
+}
+	 
