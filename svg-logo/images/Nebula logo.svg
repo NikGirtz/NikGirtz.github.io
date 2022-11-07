@@ -26,8 +26,8 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="0.7072744"
-     inkscape:cx="280.65486"
-     inkscape:cy="307.51855"
+     inkscape:cx="267.92996"
+     inkscape:cy="306.10467"
      inkscape:window-width="1920"
      inkscape:window-height="1112"
      inkscape:window-x="-8"
@@ -42,7 +42,8 @@
      id="layer1"
      transform="translate(-2.9337939,-16.834204)">
     <g
-       id="g358">
+       id="g358"
+       transform="translate(0.74817734,-18.330345)">
       <g
          id="g17820"
          transform="rotate(-19.282244,211.65679,41.559562)">
