@@ -1,0 +1,58 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-image:url('../images/shayna-douglas-unsplash.jpg');
+	background-size:cover;
+	margin:0;
+	font-family:;
+	font-size: 17px;
+	color:black;
+	line-height: 1.6;
+}
+
+#showcase{
+	height:100vh;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	text-align:center;
+	padding:0 20px;
+}
+
+#showcase h1{
+	font-size:75px;
+	line-height:1.2
+}
+
+#showcase .button{
+	position:fixed;
+	top:80px;
+	right:250px;
+	font-size:18px;
+	text-decoration:none;
+	color:black;
+	border:black 1px solid;
+	padding:10px 20px;
+	border-radius:10px;
+	margin-top:20px;
+}
+#showcase .button:hover{
+	background:black;
+	color:white;
+}
+
+.icons{
+	position:fixed;
+	top:25px;
+	right:155px;
+	height:50px;
+	width:50px;
+}
+.logo{
+	position:fixed;
+	top:55px;
+	right:555px;

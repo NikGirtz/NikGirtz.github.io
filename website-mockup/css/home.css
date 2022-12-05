@@ -1,0 +1,79 @@
+body {
+	background-color:#F0EAD6;
+}
+img{
+	width:35px;
+	height:35px;
+	float:right;
+	justify-content: space-evenly;
+	
+}
+
+	
+	
+}
+.socialmedia{
+	position:fixed;
+	right:20px;
+	top:30px;
+	padding:5px;
+}
+
+.images{
+	position: fixed;
+	top:300px;
+	right:-10px;
+	display:grid;
+	grid-template-columns: repeat(4,350px);
+	justify-content:center;
+}
+.logo{
+	position:fixed;
+	top:-150px;
+	right:800px;
+}
+	
+}
+@font-face{
+	font-family:"Lobster";
+	src: url("fonts/Lobster-Regular.ttf");
+	font-family: "Leckerli"
+	src: url("fonts/LeckerliOne-Regular.ttf")
+}
+	
+.cart{
+	position:fixed;
+	right:210px;
+	top:60px;
+	
+}
+
+footer{
+	font-family:"Leckerli";
+	position:fixed;
+	bottom:0;
+	width:100%;
+	height:60px;
+	text-align: center;
+}
+
+ .Home{
+	 position:fixed;
+	 top:60px;
+	 right:650px;
+	 
+	 
+ }
+.contact{
+	position:fixed;
+	top:60px;
+	right:430px;
+	
+}
+
+input[type=search]{
+	width: 500px;
+	height:20px;
+	position:fixed;
+	right:200px;
+	top:180px
