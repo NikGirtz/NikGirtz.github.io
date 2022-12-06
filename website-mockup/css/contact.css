@@ -9,8 +9,8 @@ textarea{
 
 .socialmedia{
 	position:fixed;
-	right:10px;
-	top:30px;
+	right:-10px;
+	top:1px;
 	padding:5px;
 }
 

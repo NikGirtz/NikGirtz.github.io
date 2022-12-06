@@ -4,6 +4,10 @@
   overflow: hidden;
 }
 
+.logo{
+	position:fixed;
+	right:200px;
+}
 
 .topnav a {
   float: left;
