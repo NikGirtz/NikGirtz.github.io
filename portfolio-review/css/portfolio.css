@@ -1,0 +1,30 @@
+body{
+	background-color:#152236;
+}
+
+.header{
+	position:fixed;
+	top:200px;
+	right:600px;
+	color:#2f76db;
+	font-size:25px;
+	border:5px solid #2f76db;
+}
+
+.links{
+	position:fixed;
+	top:400px;
+	right:500px;
+	display:grid;
+	grid-template-columns:100px 100px 100px 100px;
+	grid-gap:20px;
+	color:white;
+	font-size:32px;
+	color:#2f76db;
+}
+	
+.logo{
+	position:fixed;
+	top:-90px;
+	right:1100px;
+}
